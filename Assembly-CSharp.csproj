@@ -63,6 +63,7 @@
      <Compile Include="Assets\Script\MainCard.cs" />
      <Compile Include="Assets\Script\QuizManager.cs" />
      <Compile Include="Assets\Script\SceneController.cs" />
+     <Compile Include="Assets\Script\TimerCountdown.cs" />
      <Compile Include="Assets\Script\UIButton.cs" />
      <Compile Include="Assets\Script\Video.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
