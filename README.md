@@ -1,3 +1,3 @@
 # Interactive-Media
 Interactive Multimedia Design
-The interactive multimedia design was made as a final project for students from a Jakarta State University to get a bachelor's degree and end college by writing this thesis
+Interactive multimedia design was made as a final project for Jakarta State University students to get a bachelor's degree and end college, collaborate with me as the creator of this interactive game
